@@ -1,0 +1,19 @@
+{
+  "name": "task-management",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "mongod": "^2.0.0",
+    "mongoose": "^7.5.3",
+    "mongosh": "^2.0.1",
+    "Router": "^2.1.0"
+  }
+}
